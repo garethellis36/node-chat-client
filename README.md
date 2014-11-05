@@ -1,7 +1,7 @@
 node-chat-client
 ================
 
-Client for my NodeJS chat server: 
+Client for my NodeJS chat server: https://github.com/garethellis36/node-chat
 
 
 usage
