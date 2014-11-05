@@ -4,3 +4,5 @@ src/vendor/
 *.sublime*
 logs
 .DS_Store
+www/js/
+www/css/
